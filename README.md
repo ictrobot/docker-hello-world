@@ -1,6 +1,8 @@
 Hello World
 ===========
 
+**Forked to add support for multiple architectures**
+
 This is a simple Docker image that just gives http responses on port 8000. It's
 small enough to fit on one floppy disk:
 
